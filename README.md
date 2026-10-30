@@ -25,3 +25,6 @@ A collection of algorithmic problem-solving exercises completed as part of the *
 
 Each folder corresponds to an ALX interview-style exercise and contains its implementation and any accompanying exercise files.
 
+## Context
+
+A collection of algorithmic challenges completed during the ALX Software Engineering Programme, covering problem-solving, data structures, algorithm design, and computational efficiency.
